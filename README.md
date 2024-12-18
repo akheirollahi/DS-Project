@@ -9,7 +9,7 @@
 ## Table of Contents
 
   - [Data source](#data-source)
-  - [Business Problem Inspiration](#Business Problem Inspiration)
+  - [Business Problem Inspiration](#business-problem-inspiration)
   - [Methods](#methods)
  
 
