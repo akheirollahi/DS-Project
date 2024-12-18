@@ -1,6 +1,7 @@
-![99956525481521 563485cac1f92](https://github.com/user-attachments/assets/d44d7b61-38a8-47fa-8a59-ea093d486fc8)
 
 # DS Project
+<img width="845" alt="Screenshot 2024-12-18 at 9 42 13 AM" src="https://github.com/user-attachments/assets/9adca4f4-845a-4d67-94f0-a818e809e47c" />
+
 
 
 ## Authors
