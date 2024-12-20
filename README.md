@@ -47,7 +47,6 @@ Offer_publication_date - date of publication of the offer
 Offer_location - address provided by the issuer       
 Features - listed car features (ABS, airbag, parking sensors etc.)      
 
-- [Kaggle credit card approval prediction](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Business Problem Inspiration
 
